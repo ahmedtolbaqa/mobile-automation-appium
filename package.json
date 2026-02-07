@@ -1,0 +1,20 @@
+{
+  "name": "mobile-automation-appium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha \"mobile/tests/**/*.js\" --timeout 60000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "appium": "^3.2.0",
+    "appium-uiautomator2-driver": "^6.8.0",
+    "chai": "^6.2.2",
+    "mocha": "^11.7.5",
+    "webdriverio": "^9.23.3"
+  }
+}
