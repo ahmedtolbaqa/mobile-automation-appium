@@ -22,7 +22,7 @@ README.md  → This README file
 ## Setup
 
 1. Clone the repository:
-   git clone https://github.com/AhmedTolba2022/mobile-automation-appium.git
+   git clone https://github.com/AhmedTolbaqa/mobile-automation-appium.git
    cd mobile-automation-appium
 
 2. Install dependencies:
